@@ -12,9 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email address and name. This information only be collected if you email us. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app does use third party services that may collect information used to identify you.
-
-The video feeds are provided by the [Town of Prosper](https://www.prospertx.gov/terms-conditions/). You may inquire with the Town of Prosper regarding their Privacy Policy pertaining to this video feed.
+The app does use third party services that may collect information used to identify you. The video feeds are provided by the [Town of Prosper](https://www.prospertx.gov/terms-conditions/). You may inquire with the Town of Prosper regarding their Privacy Policy pertaining to this video feed.
 
 **Log Data**
 
