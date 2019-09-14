@@ -14,7 +14,7 @@ For a better experience, while using our Service, we may require you to provide 
 
 The app does use third party services that may collect information used to identify you.
 
-The video feeds are provided by the [Town of Prosper](https://www.prospertx.gov/terms-conditions/).
+The video feeds are provided by the [Town of Prosper](https://www.prospertx.gov/terms-conditions/). You may inquire with the Town of Prosper regarding their Privacy Policy pertaining to this video feed.
 
 **Log Data**
 
