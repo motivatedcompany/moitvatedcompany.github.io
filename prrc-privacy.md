@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 
 The video feeds are provided by the [Town of Prosper](https://www.prospertx.gov/terms-conditions/). You may inquire with the Town of Prosper regarding their Privacy Policy pertaining to this video feed.
 
-This privacy policy is hosted on Github.com and its [Privacy Policy](https://help.github.com/en/articles/github-privacy-statement) can be viewed here.
+This privacy policy is hosted on Github.com and its Privacy Policy can be viewed [here](https://help.github.com/en/articles/github-privacy-statement).
 
 **Log Data**
 
