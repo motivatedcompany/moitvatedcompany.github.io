@@ -12,5 +12,13 @@ If the video feeds are down and the application indicates it cannot connect, try
 ### The app is crashing, how do I resolve this?
 The application has gone through extensive testing. You may have a hardware or software issue with your iPhone. Please contact Apple to help you troubleshoot device issues. Motivated Software, LLC will not be able to help you with device issues not related to this software.
 
+### Why do I have to pay for an app that shows free video streams?
+We put a lot of time into giving you a better experience to view this data. You can always view the feeds free at https://www.prospertx.gov/live-railroad-cameras/.
+
+We feel you will find the convenience of this application well worth the cost, so we are up front and provide the link to the free website based feeds from the Town of Prosper.
+
+This appication is not affiliated with the Town of Prosper. Note that the Town of Prosper can choose to remove access to the video feeds without warning as indicated in the app terms (found on Prosper Railroad Cams app store page). This is out of the control of Motivated Software, LLC.
+
+
 ### How can I contact you?
 Email us [support@motivatedcompany.com)](mailto:support@motivatedcompany.com).
