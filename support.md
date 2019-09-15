@@ -11,11 +11,11 @@ Check out [this article](https://www.cleveroad.com/blog/how-much-does-it-cost-to
 
 Note that Apple takes 30% of the licensing fee. The license you purchase includes family sharing from Apple, so if you have this configured up to 6 family members can use the app.
 
-We feel you will find the convenience of this application well worth the cost, so we are up front and provide the link to the free website based feeds from the Town of Prosper.
+We feel you will find the convenience of this application well worth the cost, so we are up front and provide the link to the free website based feeds from the Town of Prosper. If you do not like the app, feel free to request a refund in your app store account settings!
 
 This appication is not affiliated with the Town of Prosper. Note that the Town of Prosper can choose to remove access to the video feeds without warning as indicated in the app terms (found on Prosper Railroad Cams app store page). This is out of the control of Motivated Software, LLC.
 
-### Why is the video not refreshing or appearing choppy?
+### Why is the video appearing choppy or not refreshing?
 Live video feeds can be delayed for several reasons. This includes bandwith limitations imposed by your cell phone provider, poor signal, and delayed video coming from the feed due to upload issues. Check the number of bars for your mobile connection. Spoeak with your mobile provider regarding coverage or data throttling issues.
 
 ### The video is frozen or I have an error message in the center of the video, how do I fix this?
