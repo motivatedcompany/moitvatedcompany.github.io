@@ -13,4 +13,4 @@ If the video feeds are down and the application indicates it cannot connect, try
 The application has gone through extensive testing. You may have a hardware or software issue with your iPhone. Please contact Apple to help you troubleshoot device issues. Motivated Software, LLC will not be able to help you with device issues not related to this software.
 
 ### How can I contact you?
-Email us [mailto](mailto:support@motivatedcompany.com).
+Email us [support@motivatedcompany.com)](mailto:support@motivatedcompany.com).
