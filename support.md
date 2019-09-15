@@ -13,7 +13,13 @@ If the video feeds are down and the application indicates it cannot connect, try
 The application has gone through extensive testing. You may have a hardware or software issue with your iPhone. Please contact Apple to help you troubleshoot device issues. Motivated Software, LLC will not be able to help you with device issues not related to this software.
 
 ### Why do I have to pay for an app that shows free video streams?
-We put a lot of time into giving you a better experience to view this data. You can always view the feeds free at https://www.prospertx.gov/live-railroad-cameras/.
+We put a lot of time into providing a better experience to view the video feeds. It took many of learning, coding, testing, debugging to build this product. You can always view the feeds free at https://www.prospertx.gov/live-railroad-cameras/.
+
+Check out (this article)[https://www.cleveroad.com/blog/how-much-does-it-cost-to-create-an-app] for what is costs to build an iOS app. 
+
+> Giving a rough answer to how much it costs to create an app (we take the rate of $50 an hour as average): a basic application will cost around $25,000. Medium complexity apps will cost between $40,000 and $70,000. The cost of complex apps usually goes beyond $70,000.
+
+Note that Apple takes 30% of the licensing fee. The license you purchase includes family sharing from Apple, so if you have this configured up to 6 family members can use the app.
 
 We feel you will find the convenience of this application well worth the cost, so we are up front and provide the link to the free website based feeds from the Town of Prosper.
 
