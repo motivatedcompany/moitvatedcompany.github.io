@@ -21,4 +21,4 @@ This appication is not affiliated with the Town of Prosper. Note that the Town o
 
 
 ### How can I contact you?
-Email us [support@motivatedcompany.com)](mailto:support@motivatedcompany.com).
+Email us [support@motivatedcompany.com](mailto:support@motivatedcompany.com).
