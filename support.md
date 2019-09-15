@@ -5,7 +5,7 @@
 ### Why do I have to pay for an app that shows free video streams?
 We put a lot of time into providing a better experience to view the video feeds. It took many of learning, coding, testing, debugging to build this product. You can always view the feeds free at https://www.prospertx.gov/live-railroad-cameras/.
 
-Check out [this article](https://www.cleveroad.com/blog/how-much-does-it-cost-to-create-an-app) for what is costs to build an iOS app. We will have continued maintenance costs to keep this application running even without major enhancements. Each new iOS version requires testing. Apple released new hardware often that also adds significant expense to maintaining an application.
+Check out [this article](https://www.cleveroad.com/blog/how-much-does-it-cost-to-create-an-app) for what is costs to build an iOS app. We will have continued maintenance costs to keep this application running even without major enhancements. Each new iOS version requires testing. Apple releases new hardware often that also adds significant expense to maintaining an application.
 
 > Giving a rough answer to how much it costs to create an app (we take the rate of $50 an hour as average): a basic application will cost around $25,000. Medium complexity apps will cost between $40,000 and $70,000. The cost of complex apps usually goes beyond $70,000.
 
