@@ -17,4 +17,4 @@ The application has gone through extensive testing. You may have a hardware or s
 
 
 ### How can I contact you?
-Email us [support@motivatedcompany.com](mailto:support@motivatedcompany.com).
+Email us at [support@motivatedcompany.com](mailto:support@motivatedcompany.com).
